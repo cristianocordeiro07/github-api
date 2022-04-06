@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "github-url-base",
+      "type": "java.lang.String",
+      "description": "GitHub Url Base"
+    },
+    {
+      "name": "github-token",
+      "type": "java.lang.String",
+      "description": "GitHub Token used for private requests, and to increase request limite rate.https://docs.github.com/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token."
+    }
+  ]
+}
